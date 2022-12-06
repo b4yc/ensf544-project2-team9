@@ -1,0 +1,78 @@
+Economy  Statistics:
+count    1084.000000
+mean        0.917775
+std         0.402909
+min         0.000000
+25%         0.613437
+50%         0.982214
+75%         1.238750
+max         2.096000
+Name: Economy, dtype: float64
+Economy Minimum: 0.0 (Congo (Kinshasa), 2015)
+Economy Maximum: 2.096 (United Arab Emirates, 2018)
+
+Trust  Statistics:
+count    1083.000000
+mean        0.294111
+std         0.300707
+min         0.000000
+25%         0.068178
+50%         0.136957
+75%         0.500726
+max         0.939000
+Name: Trust, dtype: float64
+Trust Minimum: 0.0 (Indonesia, 2015)
+Trust Maximum: 0.939 (Croatia, 2021)
+
+Health  Statistics:
+count    1084.000000
+mean        0.698734
+std         0.326261
+min         0.000000
+25%         0.487500
+50%         0.698025
+75%         0.884000
+max         1.751000
+Name: Health, dtype: float64
+Health Minimum: 0.0 (Sierra Leone, 2015)
+Health Maximum: 1.751 (Luxembourg, 2021)
+
+Generosity  Statistics:
+count    1084.000000
+mean        0.153545
+std         0.167592
+min        -0.300907
+25%         0.064828
+50%         0.162140
+75%         0.252000
+max         0.838075
+Name: Generosity, dtype: float64
+Generosity Minimum: -0.30091 (Greece, 2020)
+Generosity Maximum: 0.83808 (Myanmar, 2017)
+
+Family  Statistics:
+count    1084.000000
+mean        1.004091
+std         0.310650
+min         0.000000
+25%         0.805747
+50%         0.948000
+75%         1.247028
+max         1.644000
+Name: Family, dtype: float64
+Family Minimum: 0.0 (Central African Republic, 2015)
+Family Maximum: 1.644 (Iceland, 2018)
+
+Score  Statistics:
+count    1084.000000
+mean        5.413460
+std         1.118595
+min         2.523000
+25%         4.571000
+50%         5.385150
+75%         6.216125
+max         7.842000
+Name: Score, dtype: float64
+Score Minimum: 2.523 (Afghanistan, 2021)
+Score Maximum: 7.842 (Finland, 2021)
+
